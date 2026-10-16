@@ -1,16 +1,16 @@
-Auto-Labeler
+# Auto-Labeler
 
 An automated bounding-box annotation tool for computer vision datasets using Ultralytics YOLO.
 
-Features
+## Features
 
-* Automatic car detection and bounding-box generation.
-* YOLO-format annotation export.
-* Support for multiple image classes.
-* Visual previews for annotation inspection.
-* YOLO dataset preparation.
+- Automatic car detection and bounding-box generation.
+- YOLO-format annotation export.
+- Support for multiple image classes.
+- Visual previews for annotation inspection.
+- YOLO dataset preparation.
 
-Usage
+## Usage
 
 1. Open the Jupyter Notebook in Google Colab.
 2. Configure your dataset path and class names.
@@ -19,8 +19,8 @@ Usage
 
 A GPU runtime is recommended.
 
-Output
+## Output
 
-* YOLO-format annotation files.
-* Annotated image previews.
-* An optional YOLO-compatible dataset with dataset.yaml.
+- YOLO-format annotation files.
+- Annotated image previews.
+- An optional YOLO-compatible dataset with `dataset.yaml`.
